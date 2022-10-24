@@ -7,7 +7,7 @@
 
 - 🔎 Interested in learning: 
 ######    Python, MySQL, React, AngularJS, Sass and C++ 
-- 📫 How to reach me:
+📫 How to reach me:
 @ https://www.linkedin.com/in/estefania-argueta-276989250/
 
 <!---
