@@ -6,7 +6,7 @@
 ######    JavaScript, HTML, CSS, Bootstrap, jQuery, JSON, API's, and Node.js
 
 - 🔎 Interested in learning: 
-######    Python, MySQL, React, AngularJS, Sass and C++ 
+######    Python, MySQL, React, AngularJS, Vue.js, Sass and C++ 
 📫 How to reach me:
 @ https://www.linkedin.com/in/estefania-argueta-276989250/
 
